@@ -1,0 +1,29 @@
+\BOOKMARK [1][-]{section.1}{Background}{}% 1
+\BOOKMARK [1][-]{section.2}{Stakeholders}{}% 2
+\BOOKMARK [1][-]{section.3}{Scope of MIADNA Standard}{}% 3
+\BOOKMARK [1][-]{section.4}{Requested Sequence: What you wish to make}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Sequence}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Annotation}{section.4}% 6
+\BOOKMARK [1][-]{section.5}{Design Rules: Process transforming requested sequences to what can be made}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{Design Tolerances}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.2}{Screening}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Designed Sequence: What will be made}{}% 10
+\BOOKMARK [2][-]{subsection.6.1}{Design Log}{section.6}% 11
+\BOOKMARK [2][-]{subsection.6.2}{Changes From Requested Sequence}{section.6}% 12
+\BOOKMARK [1][-]{section.7}{Making}{}% 13
+\BOOKMARK [2][-]{subsection.7.1}{Synthesis Process Description}{section.7}% 14
+\BOOKMARK [2][-]{subsection.7.2}{Assembly Process Description}{section.7}% 15
+\BOOKMARK [2][-]{subsection.7.3}{Production Log}{section.7}% 16
+\BOOKMARK [1][-]{section.8}{Characterization: How the physical product was made}{}% 17
+\BOOKMARK [2][-]{subsection.8.1}{Sequence Measurement}{section.8}% 18
+\BOOKMARK [2][-]{subsection.8.2}{Verified Sequence}{section.8}% 19
+\BOOKMARK [2][-]{subsection.8.3}{Clonality}{section.8}% 20
+\BOOKMARK [2][-]{subsection.8.4}{Yield Measurement}{section.8}% 21
+\BOOKMARK [2][-]{subsection.8.5}{Purity Measurement}{section.8}% 22
+\BOOKMARK [2][-]{subsection.8.6}{Contaminants}{section.8}% 23
+\BOOKMARK [2][-]{subsection.8.7}{Other Measurements}{section.8}% 24
+\BOOKMARK [1][-]{section.9}{Synthesized Sequence: What was made}{}% 25
+\BOOKMARK [2][-]{subsection.9.1}{Measured Sequence}{section.9}% 26
+\BOOKMARK [2][-]{subsection.9.2}{Molecules}{section.9}% 27
+\BOOKMARK [2][-]{subsection.9.3}{Organism}{section.9}% 28
+\BOOKMARK [2][-]{subsection.9.4}{User Guide}{section.9}% 29
